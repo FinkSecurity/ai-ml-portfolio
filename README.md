@@ -1,4 +1,4 @@
-# AI/ML Portfolio — FinkSecurity
+# AI/ML Portfolio — FinkSecurity 🦂
 
 A hands-on learning journey from Machine Learning fundamentals through Large Language Models, multimodal AI, and local model deployment.
 
