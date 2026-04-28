@@ -1,6 +1,9 @@
 # Virtual environment
 .venv/
 
+# Datasets (too large for git — see each module README for download instructions)
+**/data/
+
 # Jupyter checkpoints
 .ipynb_checkpoints/
 
